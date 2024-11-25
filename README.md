@@ -55,7 +55,7 @@ A fully responsive and dynamic personal portfolio to showcase my work, skills, a
 
 Feel free to reach out for collaborations, discussions, or just to connect!  
 
-- 📧 **Email**: brukalemayehu@example.com  
+- 📧 **Email**: brukalex.11@gmail.com.com  
 - 🌐 **GitHub**: [github.com/Brukalex](https://github.com/Brukalex)  
 - 💼 **LinkedIn**: [linkedin.com/in/brukalemayehu](#)  
 
